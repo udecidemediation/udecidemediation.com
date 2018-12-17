@@ -4,3 +4,13 @@
     border: none;
     border-radius: unset;
 }
+
+
+#ip2 {
+    border-radius: 25px;
+    border: 2px solid #ffffff;
+    padding: 20px;
+    width: 200px;
+    height: 15px;
+    color: #444444;
+}
